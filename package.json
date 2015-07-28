@@ -1,0 +1,12 @@
+{
+  "name": "prime_peer_node",
+  "version": "1.0.0",
+  "description": "A prime peer challange with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Samantha Sunders",
+  "license": "ISC"
+}
